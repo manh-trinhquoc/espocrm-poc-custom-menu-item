@@ -1,0 +1,13 @@
+{
+    "module": "CustomNavbarMenuItem",
+    "name": "Custom Navbar Menu Item",
+    "description": "Poc custom navbar menu item.",
+    "author": "manhtq",
+    "bundled": true,
+    "acceptableVersions": [
+        ">=7.3.0"
+    ],
+    "php": [
+        ">=7.2"
+    ]
+}
