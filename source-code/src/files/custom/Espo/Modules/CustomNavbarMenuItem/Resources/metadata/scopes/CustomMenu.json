@@ -1,0 +1,16 @@
+{
+    "entity": false,
+    "tab": true,
+    "acl": "true",
+    "aclPortal": true,
+    "aclPortalLevelList": [
+        "all",
+        "account",
+        "contact",
+        "own",
+        "no"
+    ],
+    "disabled": false,
+    "module": "CustomNavbarMenuItem",
+    "isCustom": true
+}
