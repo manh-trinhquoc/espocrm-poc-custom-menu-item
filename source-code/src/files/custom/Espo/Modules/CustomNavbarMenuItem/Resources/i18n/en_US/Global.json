@@ -1,8 +1,10 @@
 {
     "scopeNames": {
-        "CustomMenu": "Custom Menu"
+        "CustomMenu": "Custom Menu",
+        "CustomLeadMenuItem": "Custom Lead Menu Item"
     },
     "scopeNamesPlural": {
-        "CustomMenu": "Custom Menu"
+        "CustomMenu": "Custom Menu",
+        "CustomLeadMenuItem": "Custom Lead Menu Item"
     }
 }

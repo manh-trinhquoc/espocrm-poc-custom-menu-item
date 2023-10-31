@@ -1,0 +1,5 @@
+{
+    "controller": "custom-navbar-menu-item:controllers/custom-lead-menu-item",
+    "color": "#00ff66",
+    "iconClass": "fas fa-file-contract"
+}
