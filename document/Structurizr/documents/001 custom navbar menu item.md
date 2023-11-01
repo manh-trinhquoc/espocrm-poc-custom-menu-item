@@ -35,6 +35,4 @@
 - đặt tên là CustomLeadMenuItem  
 - bật f12 để xem log thông tin đã lấy  
 ### Tạo 1 item redirect về trang list của Lead
-- đặt tên là MenuItemRedicrectLead 
-### Tạo 1 item trở đến màn detail của user admin trên menu    
-    
+- đặt tên là MenuItemRedirectLead 

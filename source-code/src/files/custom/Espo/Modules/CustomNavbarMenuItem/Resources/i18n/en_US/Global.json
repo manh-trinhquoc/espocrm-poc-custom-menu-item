@@ -1,10 +1,12 @@
 {
     "scopeNames": {
         "CustomMenu": "Custom Menu",
-        "CustomLeadMenuItem": "Custom Lead Menu Item"
+        "CustomLeadMenuItem": "Custom Lead Menu Item",
+        "MenuItemRedirectLead": "Menu Item Redirect Lead"
     },
     "scopeNamesPlural": {
         "CustomMenu": "Custom Menu",
-        "CustomLeadMenuItem": "Custom Lead Menu Item"
+        "CustomLeadMenuItem": "Custom Lead Menu Item",
+        "MenuItemRedirectLead": "Menu Item Redirect Lead"
     }
 }
